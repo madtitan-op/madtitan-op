@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# All repositories/content of this user has been moved to [github.com/animesh-mahata](github.com/animesh-mahata)
 <!--
 **madtitan-op/madtitan-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
